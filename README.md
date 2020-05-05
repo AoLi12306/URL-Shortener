@@ -2,8 +2,8 @@
 A server for URL shortener
 
 ### Reference
-Project refer from [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial
-](https://www.youtube.com/watch?v=vjf774RKrLc)
+Project refer from [How To Build A URL Shortener With Node.js, Express, and MongoDB
+](https://www.youtube.com/watch?v=SLpUKAGnm-g)
 
 
 ### pre-request:
